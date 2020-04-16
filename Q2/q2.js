@@ -15,7 +15,7 @@ class Person {
     console.log(`Hi! I'm ${this.name}`);
   };
 
-  //declaring a goodbye message to declare in console
+  //declaring a goodbye message to be displayed in console
   bye() {
     console.log(`${this.name.} has left the building. Bye for now!`);
   };
